@@ -1,6 +1,6 @@
-### Hi everyone, my name is Alexander Diaz - vulgo [Aeryn Player][website] 👋
+### Hi everyone, my name is Alexander Diaz - vulgo [Aeryn Player] 👋
 
-[![Website](https://www.youtube.com/AerynPlayer)
+
 
 ## I'm a Fullstack Student and Game Developer.
 
