@@ -1,4 +1,4 @@
-### Hi everyone, my name is Alexander Diaz - vulgo [Aeryn Player] 👋
+### Hi everyone, my name is Aeryn Player 👋
 
 
 
