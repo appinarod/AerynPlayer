@@ -5,8 +5,7 @@
 ## I'm a Fullstack Student and Game Developer.
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: learn PHP
-
+- 
 ### Social Networks:
 
 [<img align="left" alt="AerynPlayer | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
