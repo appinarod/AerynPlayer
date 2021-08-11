@@ -24,13 +24,5 @@
 
 ---
 
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-
-</details>
-
-[website]: https://youtube.com/AerynPlayer
-[youtube]: https://youtube.com/AerynPlayer
+[youtube]: https://www.youtube.com/channel/UCt9g4fsWxdhhPe-FDvBEudA
 
